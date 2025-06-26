@@ -1,1 +1,1 @@
-print('Hello, open source world')
+print('Hello, open-source world')
