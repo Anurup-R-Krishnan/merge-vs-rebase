@@ -1,2 +1,7 @@
 Line 1: Base
-Line 2: Main branch change
+<<<<<<< HEAD
+Line 2: Main branch change with feature
+=======
+Line 2: Feature work
+Line 2: Feature work
+>>>>>>> feature
