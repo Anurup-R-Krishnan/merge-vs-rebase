@@ -1,5 +1,0 @@
-Line 1: Base
-Line 2: Main branch change with feature
-Line 3: Pull or poush
-Line 4: accurate line
-Line 5: Wrong line
